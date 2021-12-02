@@ -1,5 +1,5 @@
-#Attempts to learn Git
+# Attempts to learn Git
 
-##Presenting some useless text
+## Presenting some useless text
 
 This is fun and nice to experiment with!
